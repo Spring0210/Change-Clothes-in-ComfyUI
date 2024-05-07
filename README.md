@@ -8,6 +8,6 @@ Sam + Inpaint
 
 ## 更换背景
 ### remove+foreground2blending.json
-Sam + Layer Diffuse
+Remove Background + Layer Diffuse
 ![示例图片](Img/img3.png)
 ![示例图片](Img/img4.png)
