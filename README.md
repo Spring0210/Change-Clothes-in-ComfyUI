@@ -11,7 +11,7 @@ Sam + Inpaint
 ![示例图片](Img/img2.png)
 
 ## 更换背景
-### [remove+foreground2blending.json]
+### [remove+foreground2blending.json](https://github.com/Spring0210/Workflow-ComfyUI/blob/main/remove%2Bforeground2blending.json)
 Remove Background + Layer Diffuse
 ![示例图片](Img/img3.png)
 ![示例图片](Img/img4.png)
