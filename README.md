@@ -1,5 +1,9 @@
 # Workflow-ComfyUI
 
+## Segment Anything Model(SAM)
+### Sam.json
+![示例图片](Img/img5.png)
+
 ## 换装
 ### change_clothes.json
 Sam + Inpaint
