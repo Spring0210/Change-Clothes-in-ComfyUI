@@ -15,3 +15,9 @@ Sam + Inpaint
 Remove Background + Layer Diffuse
 ![示例图片](Img/img3.png)
 ![示例图片](Img/img4.png)
+
+### generate_transparent_and_foreground2blending.json
+Generate transparent + Layer Diffuse
+![示例图片](Img/img6.png)
+![示例图片](Img/img7.png)
+
