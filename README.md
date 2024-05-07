@@ -1,7 +1,7 @@
 # Workflow-ComfyUI
 
 ## Segment Anything Model(SAM)
-### [Sam.json](https://github.com/huchenlei/ComfyUI-layerdiffuse/blob/main/examples/layer_diffusion_fg_example_rgba.json)
+### [Sam.json](https://github.com/Spring0210/Workflow-ComfyUI/blob/main/Sam.json)
 ![示例图片](Img/img5.png)
 
 ## 换装
