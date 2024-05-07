@@ -1,6 +1,13 @@
 # Change-Clothes-in-ComfyUI
+
 ## 换装
-### sam+change_clothes.json 
-结合sam和inpaint
+### change_clothes.json
+Sam + Inpaint
 ![示例图片](Img/img1.png)
 ![示例图片](Img/img2.png)
+
+## 更换背景
+### remove+foreground2blending.json
+Sam + Layer Diffuse
+![示例图片](Img/img3.png)
+![示例图片](Img/img4.png)
