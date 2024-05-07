@@ -16,7 +16,7 @@ Remove Background + Layer Diffuse
 ![示例图片](Img/img3.png)
 ![示例图片](Img/img4.png)
 
-### [generate_transparent_and_foreground2blending.json]
+### [generate_transparent_and_foreground2blending.json](https://github.com/Spring0210/Workflow-ComfyUI/blob/main/generate_transparent_and_foreground2blending.json)
 Generate transparent + Layer Diffuse
 ![示例图片](Img/img6.png)
 ![示例图片](Img/img7.png)
